@@ -1,3 +1,3 @@
 # Moon Code
 
-A portfolio to stored snippet and explore data science concepts.
+A portfolio to store snippets and explore data science concepts.
