@@ -1,20 +1,25 @@
 ---
-name: Feature request
+name: 🛠️ Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
+title: '[Feature]: '
+labels: 'feature_request'
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Thanks :heart: for taking the time to fill out this feature request report!**
+We kindly ask that you search to see if an issue [already exists](https://github.com/SylveraIO/sylvera_ml_production/issues) 
+for your feature.
+We are also happy to accept contributions from our users.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## Description
+A clear and concise description of the feature you're interested in.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Suggested Solution
+Describe the solution you'd like. A clear and concise description of what you want to happen.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## Alternatives
+If applicable, describe alternatives you've considered.
+
+## Additional Context
+Add any other context about the problem here. Deadlines, epics, etc.
